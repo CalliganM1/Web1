@@ -1,3 +1,13 @@
 h1 {
 	color: red;
+	background-color: aqua;
+	border-color: black;
+}
+button {
+	border-radius: 50px;
+	background-color: rgb(0, 0, 0);
+	border-color:rgb(170, 34, 211);
+	color: white;
+	font-size: 20px;
+	font-family: comic-sans;
 }
